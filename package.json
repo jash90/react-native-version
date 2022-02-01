@@ -26,6 +26,7 @@
     "common-tags": "^1.4.0",
     "detect-indent": "^6.0.0",
     "dottie": "^2.0.0",
+    "fs": "^0.0.1-security",
     "js-beautify": "^1.7.4",
     "lodash.flattendeep": "^4.4.0",
     "lodash.uniq": "^4.5.0",
